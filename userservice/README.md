@@ -37,7 +37,7 @@ This is a Spring Boot microservice for managing users. It supports user registra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/userservice.git
+git clone https://github.com/rahulkumarcse102/userService/tree/main/userservice
 cd userservice
 ```
 
